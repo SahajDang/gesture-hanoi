@@ -89,6 +89,8 @@ MediaPipe by Google
 
 OpenCV
 
+---
+
 📄 License
 
 This project is licensed under the MIT License.
